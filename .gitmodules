@@ -1,3 +1,6 @@
 [submodule "docs/pushrepo"]
 	path = docs/pushrepo
 	url = https://github.com/yahshun/pushrepo.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/yahshun/pushrepo.git
